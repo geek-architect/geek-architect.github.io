@@ -25,43 +25,27 @@
 | 技术杂文 | 全平台 | 技术类无法分类的文章、视频等。 |
 | 吴念诗文集 | 仅头条 | 码农老吴不入流的诗歌，散文集。 |
 
-## 栏目大纲
-### 架构师系列
-#### 《架构师基本功之设计模式》
-
-| 期数 | 设计模式 | 内容 |
-|-----|-----| :-------------- |
-| | |B站-文章|
-| | | [《架构师基本功之设计模式》相关代码，资料及工具说明](https://www.bilibili.com/read/cv16154224) |
-| | | [一口气让你掌握6个创建型模式的关键点](https://www.bilibili.com/read/cv18021733) |
-| 第1期 | 模板方法模式 | [架构师基本功之设计模式-狗厂百万级订单量的号卡业务-第1期](https://www.bilibili.com/read/cv15592468) |
-| 第2期 | 模板方法模式 |[架构师基本功之设计模式第2期-模板方法重构京东百万级订单量的](https://www.bilibili.com/read/cv15651016)|
-| 第3期 | 策略模式 |[码农老吴基于策略模式重构京东高并发高风险的促销业务模块](https://www.bilibili.com/read/cv15980509)|
-| 第4期 | 策略模式 |[码农老吴基于策略模式+模板方法模式重构京东促销业务模块](https://www.bilibili.com/read/cv16088179)|
-| 第5期 | 状态模式 |[码农老吴基于状态模式重构复杂多变的京东订单状态流转](https://www.bilibili.com/read/cv16247154)|
-| 第6期 | 状态模式 |[码农老吴深度解析状态模式冗余代码的化解之道](https://www.bilibili.com/read/cv16346160)|
-| 第7期 | 策略模式 |[码农老吴基于享元模式重构京东千万级手机号号池核心模块](https://www.bilibili.com/read/cv16543358)|
-| 第8期 | 单例模式 |[码农老吴基于单例模式和guava打造高并发，线程安全的本地缓存](https://www.bilibili.com/read/cv16917422)|
-| 第9期 | 工厂系列模式 |[码农老吴基于工厂模式打造可扩展，多语言支持的导出模块](https://www.bilibili.com/read/cv17134551) <br> [5分钟，开发出一个自己的框架 两大设计模式联袂主演 ](https://www.bilibili.com/read/cv17246347) <br> [N个工厂方法相加 何时能等于抽象工厂](https://www.bilibili.com/read/cv17319921)|
-| 第10期 | 建造者模式 |[JDK框架大佬 google首席JAVA架构师，是这样用设计模式的](https://www.bilibili.com/read/cv17447651)|
-| 第11期 | 原型模式 |[一个被JDK收编并提供语言级支持的设计模式](https://www.bilibili.com/read/cv17666003)|
-| 第12期 | 命令模式 |[“随风潜入夜，润物细无声” 形容这个设计模式 最为恰当](https://www.bilibili.com/read/cv18401417)|
-| |备忘录模式 |[用Java实现Redis的RDB机制 离不开这个设计模式](https://www.bilibili.com/read/cv18485838)|
-| |命令+备忘录 |[给Redis增加undo，redo功能 一种愚蠢的设计方案](https://www.bilibili.com/read/cv18571155)|
-| |责任链模式 |[基于责任链模式 重构电商营销活动中的会员资格校验模块](https://www.bilibili.com/read/cv18690898)|
-| |责任链模式 |[基于Commons Chain类库 重构电商营销活动中的会员资格校验模块](https://www.bilibili.com/read/cv18759511)  |
-| 第13期 | 解释器模式 |["诗三百" 基于JVM的编程语言 向华为的“仓颉”语言致敬](https://www.bilibili.com/read/cv19028103) <br> [学了这个设计模式 就可以开发一个自己的编程语言玩玩](https://www.bilibili.com/read/cv19111494)|
-| 第14期 | 访问者模式 |[一个让码农道心不稳，走火入魔，破罐子破摔的设计模式](https://www.bilibili.com/read/cv19529298)|
-| 第15期 | 迭代器模式 |[JDK集合框架创始人 Google首席java架构师 设计模式的又一贡献](https://www.bilibili.com/read/cv19718986)|
-| 第16期 | 观察者模式 |[一个由Java创始人Chris Warth实现的设计模式](https://www.bilibili.com/read/cv19986391)|
-| 第17期 | 中介者模式 |[苹果应用商店背后的设计模式](https://www.bilibili.com/read/cv20226549)|
-| 第18期 | 门面模式 | 开发中... |
-| | | B站-视频 |
-| | | 待增加... |
-| | | 头条-视频 |
-| | | 待增加... |
-| | | 头条-视频 |
-| | | 待增加... |
+## 栏目合集
+### 架构师系列-《架构师基本功之设计模式》
+#### B站合集 
+- 创建型模式 
+  - 单例模式（Singleton Pattern）
+    - 文章：[码农老吴基于单例模式和guava打造高并发，线程安全的本地缓存](https://www.bilibili.com/read/cv16917422)
+    - 视频：[第1节：码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV125411Q7hn/)
+    - 视频：[第2节:码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV1KA4y1o7tg)
+    - 视频：[第3节：码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV1EA4y1o77j)
+    - 《源码说》视频：[华为开源软件里的设计模式 有啥不一样](https://www.bilibili.com/video/BV1nt4y1G7FX)
+  - 建造者模式（Builder Pattern）
+    - 文章：[JDK框架大佬 google首席JAVA架构师，是这样用设计模式的](https://www.bilibili.com/read/cv17447651)
+    - 视频：[JDK框架大佬 google首席架构师 是这样用设计模式的](https://www.bilibili.com/video/BV1tf4y1d789)
+    - 视频：[大结局-JDK框架大佬 google首席架构师 是这样用设计模式的](https://www.bilibili.com/video/BV1Dv4y1T7Vq)
+    - 《源码说》视频：[第一节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Fe4y1D7a4) 
+    - 《源码说》视频：[第二节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Tr4y1L7sF)
+    - 《源码说》视频：[大结局 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1CW4y1a7ab)
+  - 原型模式（Prototype Pattern）
+  - 静态工厂方法模式(Static Factory Method Pattern)
+  - 工厂方法模式（Factory Pattern）
+  - 抽象工厂模式（Abstract Factory Pattern） 
 
 ### 极客系列
 
