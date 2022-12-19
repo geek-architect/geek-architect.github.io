@@ -140,6 +140,21 @@
     - 视频：[码农老吴基于享元模式打造百万级手机号池-第3节](https://www.bilibili.com/video/BV1Pu41167Ka)
     - 《源码说》文章：[源码说-码农老吴解密藏在JDK源代码里面的享元模式](https://www.bilibili.com/read/cv16723044)
     - 《源码说》视频：[源码说-码农老吴解说藏在JDK 里面的享元模式](https://www.bilibili.com/video/BV1Rg411d7KC)
-### 源码说
+#### 头条合集
+- 整理中...
+### 《源码说》
 #### B站合集
-#### 头条合集  
+- 第1期 [源码说-码农老吴解密藏在JDK源代码里面的享元模式](https://www.bilibili.com/read/cv16723044)
+- 第2期 [源码说-码农老吴解说藏在JDK源码里面的策略模式](https://www.bilibili.com/read/cv16806826)
+- 第3期 [Spring框架 阿里巴巴的大牛们 原型模式 都选择了Joshua Bloch的](https://www.bilibili.com/read/cv17764693)
+- 第4期 [Dubbo框架大牛 为什么没照搬Joshua Bloch的这个设计模式](https://www.bilibili.com/read/cv17885668)
+- 第5期 [华为开源软件里的设计模式 有啥不一样](https://www.bilibili.com/read/cv18007541) 
+- 第6期 [第1节-这个设计模式 Dubbo框架比Spring框架 更胜一筹](https://www.bilibili.com/read/cv18133842)
+- 第6期 [第2节-JDK源代码中 真实的 抽象工厂模式案例](https://www.bilibili.com/read/cv18266097)
+#### 头条合集
+- 整理中...
+### 《架构师书房》
+#### B站合集
+- 整理中...
+#### 头条合集
+- 整理中...
