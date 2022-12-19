@@ -16,16 +16,25 @@
 
 | 栏目 | 平台 | 说明 |
 | ------------- | ------------- | :------------- |
-| 吴念秘境 | 全平台 | 码农老吴的直播视频  | 
+| 吴念秘境 | 全平台 | 码农老吴的直播间  | 
 | 架构师系列 | 全平台 | 架构师相关文章，视频等。 <br>《架构师基本功之设计模式》  |
 | 极客系列  | 全平台 | 技术专家相关文章，视频等。  |
 | 架构师书房  | 全平台 | 极客及架构师相关书籍分享，书单等。<br>《设计原本》<br>《代码不朽》 |
-| 极客兵器谱  | 全平台 | 有助于提高开发能效的工具，插件，开源软件等  |
+| 极客兵器谱  | 全平台 | 有助于提高开发能效的软件，工具，插件，类库，开源软件等  |
 | 源码说  | 全平台 | 知名开源软件源代码解说。|
 | 技术杂文 | 全平台 | 技术类无法分类的文章、视频等。 |
 | 吴念诗文集 | 仅头条 | 码农老吴不入流的诗歌，散文集。 |
 
 ## 栏目合集
+### 极客兵器谱
+#### B站合集
+- 第一期
+  - 文章：[让你的源代码阅读效率 倍增的神器](https://www.bilibili.com/read/cv17569061)
+  - 视频：[让你的源代码阅读效率 倍增的神器](https://www.bilibili.com/video/BV1J34y1J7Sm)
+#### 头条合集
+- 第一期
+  - 文章：[让你的源代码阅读效率 倍增的神器](https://www.toutiao.com/item/7120113071640805921/)
+  - 视频：[让你的源代码阅读效率 倍增的神器](https://www.ixigua.com/7178701726130799156?id=7120190148415128094)
 ### 架构师系列-《架构师基本功之设计模式》
 #### B站合集 
 - 创建型模式 
@@ -34,11 +43,13 @@
     - 视频：[第1节：码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV125411Q7hn/)
     - 视频：[第2节:码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV1KA4y1o7tg)
     - 视频：[第3节：码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV1EA4y1o77j)
+    - 《源码说》文章：[华为开源软件里的设计模式 有啥不一样](https://www.bilibili.com/read/cv18007541)
     - 《源码说》视频：[华为开源软件里的设计模式 有啥不一样](https://www.bilibili.com/video/BV1nt4y1G7FX)
   - 建造者模式（Builder Pattern）
     - 文章：[JDK框架大佬 google首席JAVA架构师，是这样用设计模式的](https://www.bilibili.com/read/cv17447651)
     - 视频：[JDK框架大佬 google首席架构师 是这样用设计模式的](https://www.bilibili.com/video/BV1tf4y1d789)
     - 视频：[大结局-JDK框架大佬 google首席架构师 是这样用设计模式的](https://www.bilibili.com/video/BV1Dv4y1T7Vq)
+    - 《源码说》文章：[Dubbo框架大牛 为什么没照搬Joshua Bloch的这个设计模式](https://www.bilibili.com/read/cv17885668)
     - 《源码说》视频：[第一节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Fe4y1D7a4) 
     - 《源码说》视频：[第二节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Tr4y1L7sF)
     - 《源码说》视频：[大结局 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1CW4y1a7ab)
@@ -46,6 +57,7 @@
     - 文章：[一个被JDK收编并提供语言级支持的设计模式](https://www.bilibili.com/read/cv17666003)
     - 视频：[Google首席Java架构师 Joshua Bloch 设计模式领域的又一贡献-第一节](https://www.bilibili.com/video/BV1gW4y127Gn)
     - 视频：[Google首席Java架构师 Joshua Bloch 设计模式领域的又一贡献-第二节](https://www.bilibili.com/video/BV1ed4y1S7pw)
+    - 《源码说》文章：[Spring框架 阿里巴巴的大牛们 原型模式 都选择了Joshua Bloch的](https://www.bilibili.com/read/cv17764693)
     - 《源码说》视频：[Spring框架 阿里FastJson 原型模式 都选择了Joshua Bloch的-第1节](https://www.bilibili.com/video/BV1JU4y1q7qd)
     - 《源码说》视频：[Spring框架 阿里FastJson 原型模式 都选择了Joshua Bloch的-第2节](https://www.bilibili.com/video/BV1hr4y1L7AV)
   - 工厂系列模式(工厂方法，静态工厂方法，抽象工厂)
@@ -61,6 +73,8 @@
     - 视频：[N个工厂方法相加 何时能等于抽象工厂-第1集](https://www.bilibili.com/video/BV1R3411w7E2)
     - 视频：[N个工厂方法相加 何时能等于抽象工厂-第2集](https://www.bilibili.com/video/BV1tL4y1w7JZ)
     - 视频：[N个工厂方法相加 何时能等于抽象工厂-大结局](https://www.bilibili.com/video/BV1W34y1s7i4)
+    - 《源码说》文章：[这个设计模式 Dubbo框架比Spring框架 更胜一筹](https://www.bilibili.com/read/cv18133842)
+    - 《源码说》文章：[JDK源代码中 真实的 抽象工厂模式案例](https://www.bilibili.com/read/cv18266097)
     - 《源码说》视频：[这个设计模式 Dubbo框架比Spring框架 更胜一筹-第一节](https://www.bilibili.com/video/BV1yG4y1a7iA)
     - 《源码说》视频：[这个设计模式 Dubbo框架比Spring框架 更胜一筹-第二节](https://www.bilibili.com/video/BV19a411V73w)
     - 《源码说》视频：[JDK源代码中 真实的 抽象工厂模式案例](https://www.bilibili.com/video/BV1Ra41197AG)
@@ -77,6 +91,7 @@
     - 视频：[码农老吴基于策略模式重构京东高并发高风险的促销业务模块-1](https://www.bilibili.com/video/BV1b5411D7Cb)
     - 视频：[码农老吴基于策略模式重构京东高并发高风险的促销业务模块-2](https://www.bilibili.com/video/BV1US4y117UP)
     - 视频：[码农老吴基于策略模式重构京东高并发高风险的促销业务模块-3](https://www.bilibili.com/video/BV1bS4y1K7Ty)
+    - 《源码说》文章：[源码说-码农老吴解说藏在JDK源码里面的策略模式](https://www.bilibili.com/read/cv16806826)
     - 《源码说》视频：[源码说-码农老吴解说藏在JDK 源码里面的策略模式-第1节](https://www.bilibili.com/video/BV1BY411u7vQ)
     - 《源码说》视频：[源码说-码农老吴解说藏在JDK 源码里面的策略模式-第2节](https://www.bilibili.com/video/BV1o54y1d7xG)
   - 模板方法模式（Template method Pattern）
@@ -116,17 +131,15 @@
     - 文章：[苹果应用商店背后的设计模式](https://www.bilibili.com/read/cv20226549)
     - 视频：[一个被Eclipse，NetBean等项目使用的设计模式](https://www.bilibili.com/video/BV1Y8411V7gR)
     - 视频：[一个格局太大，反而籍籍无名的设计模式](https://www.bilibili.com/video/BV1We4y1M7d4)
-#### 头条合集
-
-### 极客系列
-
-### 架构师书房
-
-### 极客兵器谱
-
+- 结构型模式
+  - 享元模式（Flyweight Pattern）
+    - 文章：[码农老吴基于享元模式重构京东千万级手机号号池核心模块](https://www.bilibili.com/read/cv16543358)
+    - 视频：[码农老吴基于享元模式打造百万级手机号池-第0节](https://www.bilibili.com/video/BV1Rv4y1N7Gv)
+    - 视频：[码农老吴基于享元模式打造百万级手机号池-第1节](https://www.bilibili.com/video/BV1Z541197L3)
+    - 视频：[码农老吴基于享元模式打造百万级手机号池-第2节](https://www.bilibili.com/video/BV1Fu41167eC)
+    - 视频：[码农老吴基于享元模式打造百万级手机号池-第3节](https://www.bilibili.com/video/BV1Pu41167Ka)
+    - 《源码说》文章：[源码说-码农老吴解密藏在JDK源代码里面的享元模式](https://www.bilibili.com/read/cv16723044)
+    - 《源码说》视频：[源码说-码农老吴解说藏在JDK 里面的享元模式](https://www.bilibili.com/video/BV1Rg411d7KC)
 ### 源码说
 #### B站合集
-#### 头条合集
-
-## 页面管理
-[在线编辑](https://github.com/geek-architect/geek-architect.github.io/edit/main/README.md)
+#### 头条合集  
