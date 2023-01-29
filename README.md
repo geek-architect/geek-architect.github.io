@@ -36,8 +36,8 @@
   - 文章：[让你的源代码阅读效率 倍增的神器](https://www.toutiao.com/item/7120113071640805921/)
   - 视频：[让你的源代码阅读效率 倍增的神器](https://www.ixigua.com/7178701726130799156?id=7120190148415128094)
 ### 架构师系列-《架构师基本功之设计模式》
-#### B站合集 
-- 创建型模式 
+#### B站合集
+- 创建型模式
   - 单例模式（Singleton Pattern）
     - 文章：[码农老吴基于单例模式和guava打造高并发，线程安全的本地缓存](https://www.bilibili.com/read/cv16917422)
     - 视频：[第1节：码农老吴基于单例模式和guava打造高并发，线程安全的](https://www.bilibili.com/video/BV125411Q7hn/)
@@ -50,7 +50,7 @@
     - 视频：[JDK框架大佬 google首席架构师 是这样用设计模式的](https://www.bilibili.com/video/BV1tf4y1d789)
     - 视频：[大结局-JDK框架大佬 google首席架构师 是这样用设计模式的](https://www.bilibili.com/video/BV1Dv4y1T7Vq)
     - 《源码说》文章：[Dubbo框架大牛 为什么没照搬Joshua Bloch的这个设计模式](https://www.bilibili.com/read/cv17885668)
-    - 《源码说》视频：[第一节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Fe4y1D7a4) 
+    - 《源码说》视频：[第一节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Fe4y1D7a4)
     - 《源码说》视频：[第二节 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1Tr4y1L7sF)
     - 《源码说》视频：[大结局 Dubbo框架大牛 为什么没照搬Joshua Bloch的建造者模式](https://www.bilibili.com/video/BV1CW4y1a7ab)
   - 原型模式（Prototype Pattern）
@@ -62,7 +62,7 @@
     - 《源码说》视频：[Spring框架 阿里FastJson 原型模式 都选择了Joshua Bloch的-第2节](https://www.bilibili.com/video/BV1hr4y1L7AV)
   - 工厂系列模式(工厂方法，静态工厂方法，抽象工厂)
     - 文章：[码农老吴基于工厂模式打造可扩展，多语言支持的导出模块](https://www.bilibili.com/read/cv17134551)
-    - 文章：[5分钟，开发出一个自己的框架 两大设计模式联袂主演 ](https://www.bilibili.com/read/cv17246347) 
+    - 文章：[5分钟，开发出一个自己的框架 两大设计模式联袂主演 ](https://www.bilibili.com/read/cv17246347)
     - 文章：[N个工厂方法相加 何时能等于抽象工厂](https://www.bilibili.com/read/cv17319921)
     - 视频：[码农老吴基于工厂模式打造可扩展，多语言支持的导出模块-第1节](https://www.bilibili.com/video/BV1ia411s7gr)
     - 视频：[码农老吴基于工厂模式打造可扩展，支持多语言的导出模块-第2节](https://www.bilibili.com/video/BV1PN4y137sR)
@@ -148,7 +148,7 @@
 - 第2期 [源码说-码农老吴解说藏在JDK源码里面的策略模式](https://www.bilibili.com/read/cv16806826)
 - 第3期 [Spring框架 阿里巴巴的大牛们 原型模式 都选择了Joshua Bloch的](https://www.bilibili.com/read/cv17764693)
 - 第4期 [Dubbo框架大牛 为什么没照搬Joshua Bloch的这个设计模式](https://www.bilibili.com/read/cv17885668)
-- 第5期 [华为开源软件里的设计模式 有啥不一样](https://www.bilibili.com/read/cv18007541) 
+- 第5期 [华为开源软件里的设计模式 有啥不一样](https://www.bilibili.com/read/cv18007541)
 - 第6期 [第1节-这个设计模式 Dubbo框架比Spring框架 更胜一筹](https://www.bilibili.com/read/cv18133842)
 - 第6期 [第2节-JDK源代码中 真实的 抽象工厂模式案例](https://www.bilibili.com/read/cv18266097)
 #### 头条合集
